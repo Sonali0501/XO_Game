@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LionOrTiger</string>
+
+    <string name="Player1">Player 1: LION</string>
+    <string name="Player2">Player 2: TIGER</string>
+    <string name="reset_button">RESET</string>
+    <string name="Turn">Turn : </string>
+</resources>
